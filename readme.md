@@ -17,8 +17,7 @@ This weekend you will solve these issues.
 ## Exercise
 
 #### Requirements
-- Go to [WDI-29's page on Garnet](https://garnet.wdidc.org/cohorts/20)
-- The two people below your name on the roster will be the people who's code you will review and submit issues on. (If you are one of the bottom two people on the list, just wrap around so the first two people get reviewed also.)
+- If you are in the front or third row, turn around.The two people in front of you will be the people whose code you will review and submit issues on. (If you are one of the bottom two people on the list, just wrap around so the first two people get reviewed also.)
 - For each of these two developers' code do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
@@ -28,7 +27,7 @@ This weekend you will solve these issues.
   3. Spend at least 5 minutes looking at their code. Think about
     - Do you see any bad practices? (for example inline CSS or JS, generically named variables like `var a =`)
   4. Take a look at the Issues page on [Garnet's GitHub repo]( https://github.com/ga-dc/garnet/issues) for some examples of how to name issues.
-  4. Use your new skills to submit at least 2 (but no more than four) issues.
+  4. Use your new skills from GitHub's issue documentation aboveto submit at least 2 (but no more than four) issues.
 
 #### Deliverable
 
@@ -50,7 +49,7 @@ Your result will be a beautiful, functional Browser game using the sophisticated
 
 ### Additional Resources
 
-- Become a issue guru by reading GitHub's [Mastering Issues Documentation](https://guides.github.com/features/issues/).
+- Become an issue guru by reading GitHub's [Mastering Issues Documentation](https://guides.github.com/features/issues/).
 
 ### Self Evaluation
 
