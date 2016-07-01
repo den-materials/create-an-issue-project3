@@ -1,6 +1,6 @@
 <!--
 Creator: <Name>
-Market: SF
+Market: DEN
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
@@ -17,7 +17,7 @@ This weekend you will solve these issues.
 ## Exercise
 
 #### Requirements
-- If you are in the front or third row, turn around.The two people in front of you will be the people whose code you will review and submit issues on. (If you are one of the bottom two people on the list, just wrap around so the first two people get reviewed also.)
+- If you are in the front or third row, turn around.The two people in front of you will be the people whose code you will review and submit issues on.
 - For each of these two developers' code do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
