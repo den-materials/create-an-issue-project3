@@ -23,7 +23,8 @@ This weekend you will solve these issues.
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
   2. Open the `index.html` file in your browser or go to their game's hosted site online and play the game for a few minutes. Think about
     - Are there any bugs?
-    - Are there any relatively simple features that could be added to make the experience better? ( A scoreboard is simple enough. Playing someone over the internet would be to complex for now....)
+    - Is there improvement you think the project could make toward meeting requirements?
+    - Are there any relatively simple features that could be added to make the experience better? ( A scoreboard is simple enough. Playing someone over the internet would be too complex for now....)
   3. Spend at least 5 minutes looking at their code. Think about
     - Do you see any bad practices? (for example inline CSS or JS, generically named variables like `var a =`)
   4. Take a look at the Issues page on [Garnet's GitHub repo]( https://github.com/ga-dc/garnet/issues) for some examples of how to name issues.
