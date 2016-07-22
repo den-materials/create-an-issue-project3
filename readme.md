@@ -21,14 +21,14 @@ This weekend you will solve these issues.
 - For each of these two developers' code do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
-  2. Open the `index.html` file in your browser or go to their app's hosted site online and play around for a few minutes. Think about
+  2. Open the Sinatra app in your browser or go to their app's hosted site online and play around for a few minutes. Think about
     - Are there any bugs?
     - Is there improvement you think the project could make toward meeting requirements?
     - Are there any relatively simple features that could be added to make the experience better? ( A better-organized "new" page is doable.  Adding another 3rd party API, maybe not so much.)
   3. Spend at least 5 minutes looking at their code. Think about
     - Do you see any bad practices? (for example very long methods or poorly named variables)
   4. Take a look at the Issues page on [Garnet's GitHub repo]( https://github.com/ga-dc/garnet/issues) for some examples of how to name issues.
-  4. Use your new skills from GitHub's issue documentation aboveto submit at least 2 (but no more than four) issues.
+  4. Use your new skills from GitHub's issue documentation above to submit at least 2 (but no more than four) issues.
 
 #### Deliverable
 
