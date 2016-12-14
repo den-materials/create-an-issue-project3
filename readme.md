@@ -44,7 +44,7 @@ Tonight you will do the following things to make this full-stack app worthy of y
 2. Solve *at least two* the issues on your repo, but as many as you reasonably can. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)
 3. Put some extra work into the design of your app. Make it beautiful! Make it modern! Go nuts.
 
-Your result will be a beautiful, functional full-stack app using all the technology concepts that employers usually want their developers to know!
+You will also have some time to improve your app over the weekend.  Your result will be a beautiful, functional full-stack app using all the technology concepts that employers usually want their developers to know!
 
 ### Additional Resources
 
