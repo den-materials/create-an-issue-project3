@@ -17,7 +17,7 @@ This weekend you will solve these issues.
 ## Exercise
 
 #### Requirements
-- Team Movie Library will be reviewing Team Weather App.  Team Weather App wil be reviewing Team Travel Planner.  Team Travel Planner will be reviewing Team Movie Library.
+- Cocktail Compass will be reviewing Bystander Buddy.  Bystander Buddy wil be reviewing Foodee Foodee Truck Truck.  Foodee Foodee Truck Truck will be reviewing Fish Happens.  Fish Happens will be reviewing Cocktail Compass.
 - For the group you're reviewing do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
