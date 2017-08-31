@@ -17,7 +17,7 @@ This weekend you will solve these issues.
 ## Exercise
 
 #### Requirements
-- Cocktail Compass will be reviewing Bystander Buddy.  Bystander Buddy wil be reviewing Foodee Foodee Truck Truck.  Foodee Foodee Truck Truck will be reviewing Fish Happens.  Fish Happens will be reviewing Cocktail Compass.
+- Yokel will be reviewing Anima.  Anima wil be reviewing Color Psychology.  Color Psychology will be reviewing Dine/Grub.  Dine/Grub will be reviewing Yokel.
 - For the group you're reviewing do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
