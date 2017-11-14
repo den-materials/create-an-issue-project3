@@ -8,7 +8,7 @@ Market: DEN
 # GitHub Project 3 Issues Lab
 ## Creating Issues for Another Group's Project 3 Full-Stack Application
 
-Today you will be practicing fixing more GitHub issues. You will be reviewing another group's code and submitting two issues on their Project 3 repo.
+Today you will be practicing fixing more GitHub issues. You will be reviewing another group's code and submitting two issues per person on their Project 3 repo.
 
 This weekend you will solve these issues.
 
@@ -17,7 +17,7 @@ This weekend you will solve these issues.
 ## Exercise
 
 #### Requirements
-- Yokel will be reviewing Anima.  Anima wil be reviewing Color Psychology.  Color Psychology will be reviewing Dine/Grub.  Dine/Grub will be reviewing Yokel.
+- Homebrew Heroes will be reviewing Swipe Bite.  Swipe Bite wil be reviewing Dog Checkin.  Dog Checkin will be reviewing Homebrew Heroes.
 - For the group you're reviewing do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
@@ -41,7 +41,7 @@ This weekend you will solve these issues.
 Tonight you will do the following things to make this full-stack app worthy of your Portfolio!
 
 1. If you haven't already, split out your model(s), view(s), and controller(s) into their own directories.
-2. Solve *at least two* the issues on your repo, but as many as you reasonably can. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)
+2. Solve *at least one of* the issues on your repo per person, but as many as you reasonably can. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)
 3. Put some extra work into the design of your app. Make it beautiful! Make it modern! Go nuts.
 
 Your result will be a beautiful, functional full-stack app using all the technology concepts that employers usually want their developers to know!
