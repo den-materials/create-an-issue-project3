@@ -17,7 +17,12 @@ This weekend you will solve these issues.
 ## Exercise
 
 #### Requirements
-- Homebrew Heroes will be reviewing Swipe Bite.  Swipe Bite wil be reviewing Dog Checkin.  Dog Checkin will be reviewing Homebrew Heroes.
+- Health Blog will be reviewing Mtn Pine
+- Mtn Pine will be reviewing Health Blog
+- RTD App will be reviewing Video Game App
+- Video Game App will be reviewing RPG Fitness
+- RPG Fitness will be reviewing RTD App
+
 - For the group you're reviewing do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
@@ -40,9 +45,11 @@ This weekend you will solve these issues.
 
 Tonight you will do the following things to make this full-stack app worthy of your Portfolio!
 
-1. If you haven't already, split out your model(s), view(s), and controller(s) into their own directories.
-2. Solve *at least one of* the issues on your repo per person, but as many as you reasonably can. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)
-3. Put some extra work into the design of your app. Make it beautiful! Make it modern! Go nuts.
+1. If you haven't already, split out your model(s) and controller(s) into their own directories.
+2. If you haven't already, organize your components in modules and put your HTTP calls in separate service files.
+3. Spiff up your about and home pages, and the README for your repo.
+4. Solve *at least one of* the issues on your repo per person, but as many as you reasonably can. Read up on [how to solve an issue and close it with a simple commit message](https://help.github.com/articles/closing-issues-via-commit-messages/)
+5. Put some extra work into the design of your app. Make it beautiful! Make it modern! Go nuts.
 
 Your result will be a beautiful, functional full-stack app using all the technology concepts that employers usually want their developers to know!
 
